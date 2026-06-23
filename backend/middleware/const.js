@@ -1,0 +1,1 @@
+export const VALID_PRIORITIES = ['low', 'medium', 'high'];
